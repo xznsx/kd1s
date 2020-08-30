@@ -26,13 +26,21 @@ MassLooker requires [PHP](https://www.php.net/) 5.6 to run.
 
 ```sh
 طريقة التركيب 
+
 Follow These Steps for Installation
-$pkg install php
-$pkg install git
-$pkg install mc
-$ git clone https://github.com/xznsx/kd1s
-$ cd kd1s
-$ php login.php
-$ php run.php
-```
+
+pkg install php
+
+pkg install git
+
+pkg install mc
+
+git clone https://github.com/xznsx/kd1s
+
+cd kd1s
+
+php login.php
+
+php run.php
+
 
