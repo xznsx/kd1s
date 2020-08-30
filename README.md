@@ -2,10 +2,17 @@
 طريقة للتركيب 
 
 Follow These Steps for Installation
-$pkg install php
-$pkg install git
-$pkg install mc
-$ git clone https://github.com/sanjidtk/masslooker
-$ cd masslooker
-$ php login.php
-$ php run.php
+
+1 pkg install php
+
+2 pkg install git
+
+3 pkg install mc
+
+4 git clone https://github.com/sanjidtk/masslooker
+
+5 cd masslooker
+
+6 php login.php
+
+7 php run.php
